@@ -13,5 +13,5 @@ nmap \p :set paste!<CR>
 
 autocmd filetype crontab setlocal nobackup nowritebackup
 
-set background=light
+set background=dark
 colorscheme solarized
